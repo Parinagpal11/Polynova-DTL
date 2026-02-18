@@ -1,0 +1,33 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Database
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# OS junk
+.DS_Store
+
+# Build
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Debug
+debug*.txt

@@ -1,0 +1,21 @@
+{
+  "name": "polynova-dtl-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/server.js",
+    "start": "node src/server.js",
+    "import": "node src/import-cli.js",
+    "import:openmeteo": "node src/import-openmeteo-cli.js",
+    "delete:groundtruth": "node src/delete-ground-truth-cli.js",
+    "seed:groundtruth": "node src/seed-ground-truth-cli.js",
+    "run:experiments": "node src/run-experiments-cli.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg": "^8.13.1",
+    "sqlite3": "^5.1.7"
+  }
+}
