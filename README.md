@@ -146,6 +146,13 @@ Disable simulator while using real data:
 SIMULATOR_ENABLED=false npm run dev
 ```
 
+## Dashboard
+<p align="center">
+  <img src="Dashboard.png" width="1100"/>
+</p>
+
+
+
 ## Deploy Notes
 - Backend (Render/Railway): set env vars from backend `.env`, start command `npm start`.
 - Frontend (Vercel): set `VITE_API_BASE` to deployed backend URL + `/api`.
