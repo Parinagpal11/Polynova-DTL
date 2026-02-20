@@ -1,6 +1,6 @@
-# PolyNova DTL (Global Software-Only Demo)
+# PolyNova DTL 
 
-PolyNova DTL is a software-only MS-level project for dynamic threshold learning in polyhouse monitoring across diverse climates.
+PolyNova DTL is a software-demonstration for dynamic threshold learning in polyhouse monitoring across diverse climates.
 
 ## Features
 - Real-time simulated polyhouse readings for multiple farms
