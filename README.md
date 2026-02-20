@@ -22,7 +22,7 @@ PolyNova DTL is a software-demonstration for dynamic threshold learning in polyh
 ## System Architecture
 
 <p align="center">
-  <img src="system_architecture.png" width="1100"/>
+  <img src="SystemArchitecture.png" width="1100"/>
 </p>
 
 ## Environment Setup
