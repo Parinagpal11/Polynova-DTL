@@ -2,6 +2,11 @@
 
 PolyNova DTL is a software-demonstration for dynamic threshold learning in polyhouse monitoring across diverse climates.
 
+## Dashboard
+<p align="center">
+  <img src="Dashboard.png" width="1100"/>
+</p>
+
 ## Features
 - Real-time simulated polyhouse readings for multiple farms
 - Multi-climate simulation profiles (temperate, arid, tropical, continental)
@@ -146,10 +151,7 @@ Disable simulator while using real data:
 SIMULATOR_ENABLED=false npm run dev
 ```
 
-## Dashboard
-<p align="center">
-  <img src="Dashboard.png" width="1100"/>
-</p>
+
 
 
 
