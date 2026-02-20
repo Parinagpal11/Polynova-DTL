@@ -19,6 +19,12 @@ PolyNova DTL is a software-demonstration for dynamic threshold learning in polyh
 - Node.js 18+
 - npm 9+
 
+## System Architecture
+
+<p align="center">
+  <img src="system_architecture.png" width="1100"/>
+</p>
+
 ## Environment Setup
 Backend:
 ```bash
